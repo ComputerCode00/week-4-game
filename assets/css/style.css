@@ -1,0 +1,79 @@
+
+header{
+	background-color: orange;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 30%;
+	margin-bottom: 15px;
+}
+
+
+.container {
+	color: green;
+	font-size: 20px;
+	line-height: 150%;
+	background-color: lightyellow;
+	width: 40%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
+.randomNumber {
+	background-color: green;
+	color: white;
+	width: 20%;
+	margin-top: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+
+}
+
+
+.decision {
+	color: green;
+	background-color: skyblue;
+	width: 10%;
+}
+
+
+#crystals {
+	clear: both;
+	overflow: auto;
+	width: 50%;
+	padding-top: 20px;
+	margin-top: 15px;
+}
+
+
+button {
+	background: none;
+}
+
+
+.total {
+	background-color: teal;
+	color: white;
+	width: 20%;
+}
+
+
+.yourScore {
+	background-color: teal;
+	color: white;
+	width: 20%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+
+
+/*media query... attempt*/
+@media screen {
+	
+}
